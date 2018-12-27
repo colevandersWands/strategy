@@ -9,10 +9,10 @@ tue
 * :white_check_mark: [refactoring](https://github.com/colevanderswands/refactoring)     
 
 wed
-* :white_check_mark: [recursion](https://github.com/colevanderswands/recursion)  
+* :x: [conditionals]()
 
 thu
-* :x: [conditionals]()    
+* :x: [iteration]()  
 
 fri
-* :x: [iteration]()  
+* :white_check_mark: [recursion](https://github.com/colevanderswands/recursion)  
