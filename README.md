@@ -12,7 +12,7 @@ wed
 * :x: [conditionals]()
 
 thu
-* :x: [iteration]()  
+* :white_check_mark: [recursion](https://github.com/colevanderswands/recursion)  
 
 fri
-* :white_check_mark: [recursion](https://github.com/colevanderswands/recursion)  
+* :white_check_mark: [iteration](https://github.com/colevanderswands/iteration)  
