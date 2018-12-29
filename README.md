@@ -10,6 +10,7 @@ tue
 
 wed
 * :x: [conditionals]()
+* :x: problem modeling
 
 thu
 * :white_check_mark: [recursion](https://github.com/colevanderswands/recursion)  
